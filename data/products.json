@@ -1,0 +1,94 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Ноутбук HP Pavilion",
+      "price": 49999,
+      "description": "15.6-дюймовый ноутбук с процессором Intel Core i5, 8GB RAM и 512GB SSD"
+    },
+    {
+      "id": 2,
+      "name": "Смартфон Samsung Galaxy S21",
+      "price": 69999,
+      "description": "6.2-дюймовый AMOLED экран, 128GB памяти, тройная камера"
+    },
+    {
+      "id": 3,
+      "name": "Планшет iPad Air",
+      "price": 54999,
+      "description": "10.9-дюймовый Retina дисплей, A14 Bionic чип, 64GB памяти"
+    },
+    {
+      "id": 4,
+      "name": "Умные часы Apple Watch Series 7",
+      "price": 34999,
+      "description": "Always-On Retina дисплей, датчик кислорода в крови, ЭКГ"
+    },
+    {
+      "id": 5,
+      "name": "Наушники Sony WH-1000XM4",
+      "price": 27999,
+      "description": "Беспроводные наушники с шумоподавлением, 30 часов работы"
+    },
+    {
+      "id": 6,
+      "name": "Игровая приставка PlayStation 5",
+      "price": 49999,
+      "description": "8K графика, SSD накопитель, поддержка Ray Tracing, DualSense контроллер"
+    },
+    {
+      "id": 7,
+      "name": "Монитор LG UltraGear",
+      "price": 45999,
+      "description": "27-дюймовый 4K IPS монитор, 144Hz, 1ms, G-Sync Compatible"
+    },
+    {
+      "id": 8,
+      "name": "Робот-пылесос Xiaomi Roborock S7",
+      "price": 39999,
+      "description": "Влажная и сухая уборка, ультразвуковая швабра, лазерная навигация"
+    },
+    {
+      "id": 9,
+      "name": "Видеокарта NVIDIA RTX 3070",
+      "price": 65999,
+      "description": "8GB GDDR6, Ray Tracing, DLSS, PCIe 4.0"
+    },
+    {
+      "id": 10,
+      "name": "Кофемашина DeLonghi Magnifica S",
+      "price": 42999,
+      "description": "Автоматическая кофемашина, капучинатор, 15 бар давления"
+    },
+    {
+      "id": 11,
+      "name": "Электросамокат Ninebot KickScooter Max",
+      "price": 59999,
+      "description": "Запас хода 65 км, максимальная скорость 30 км/ч, влагозащита IPX5"
+    },
+    {
+      "id": 12,
+      "name": "Умная колонка Яндекс Станция Макс",
+      "price": 19999,
+      "description": "Мощный звук, голосовой помощник Алиса, управление умным домом"
+    },
+    {
+      "id": 13,
+      "name": "Фотоаппарат Sony A7 III",
+      "price": 159999,
+      "description": "Полнокадровая беззеркальная камера, 24.2MP, 4K видео"
+    },
+    {
+      "id": 14,
+      "name": "Микроволновая печь Samsung с грилем",
+      "price": 15999,
+      "description": "28L объем, гриль, керамическое покрытие, умный разогрев"
+    },
+    {
+      "id": 15,
+      "name": "Электрическая зубная щетка Oral-B iO",
+      "price": 24999,
+      "description": "Магнитная технология, цветной дисплей, 7 режимов чистки, ИИ-распознавание"
+    }
+  ]
+} 
