@@ -1,0 +1,484 @@
+{
+    "players": [
+      {
+        "firstName": "Иван",
+        "lastName": "Петров",
+        "email": "ipetrov@mail.ru",
+        "gameNickname": "DarkSlayer",
+        "character": {
+          "name": "Арториус",
+          "level": 75,
+          "coins": 15000,
+          "equipment": {
+            "helmet": {
+              "name": "Шлем Драконоборца",
+              "defense": 45,
+              "rarity": "legendary"
+            },
+            "armor": {
+              "name": "Латы Феникса",
+              "defense": 80,
+              "rarity": "epic"
+            },
+            "weapon": {
+              "name": "Пламенный Меч",
+              "damage": 120,
+              "type": "two-handed"
+            },
+            "necklace": {
+              "name": "Амулет Мудрости",
+              "magicBonus": 25
+            }
+          }
+        }
+      },
+      {
+        "firstName": "Мария",
+        "lastName": "Соколова",
+        "email": "msokolova@gmail.com",
+        "gameNickname": "IceMage",
+        "character": {
+          "name": "Кристалла",
+          "level": 82,
+          "coins": 23400,
+          "equipment": {
+            "helmet": {
+              "name": "Корона Льда",
+              "defense": 38,
+              "rarity": "rare"
+            },
+            "armor": {
+              "name": "Мантия Метели",
+              "defense": 55,
+              "rarity": "epic"
+            },
+            "weapon": {
+              "name": "Посох Бури",
+              "damage": 95,
+              "type": "staff"
+            },
+            "necklace": {
+              "name": "Кулон Стихий",
+              "magicBonus": 35
+            }
+          }
+        }
+      },
+      {
+        "firstName": "Алексей",
+        "lastName": "Волков",
+        "email": "volkov.a@yandex.ru",
+        "gameNickname": "ShadowHunter",
+        "character": {
+          "name": "Ночной Клинок",
+          "level": 68,
+          "coins": 9800,
+          "equipment": {
+            "helmet": {
+              "name": "Капюшон Тени",
+              "defense": 28,
+              "rarity": "uncommon"
+            },
+            "armor": {
+              "name": "Доспех Ассасина",
+              "defense": 45,
+              "rarity": "rare"
+            },
+            "weapon": {
+              "name": "Кинжалы Тьмы",
+              "damage": 75,
+              "type": "dual-wield"
+            },
+            "necklace": {
+              "name": "Медальон Скорости",
+              "magicBonus": 15
+            }
+          }
+        }
+      },
+      {
+        "firstName": "Екатерина",
+        "lastName": "Морозова",
+        "email": "katya.frost@mail.ru",
+        "gameNickname": "HolyPriest",
+        "character": {
+          "name": "Светлана",
+          "level": 71,
+          "coins": 12500,
+          "equipment": {
+            "helmet": {
+              "name": "Венец Святости",
+              "defense": 32,
+              "rarity": "rare"
+            },
+            "armor": {
+              "name": "Роба Исцеления",
+              "defense": 40,
+              "rarity": "rare"
+            },
+            "weapon": {
+              "name": "Жезл Возрождения",
+              "damage": 65,
+              "type": "wand"
+            },
+            "necklace": {
+              "name": "Символ Жизни",
+              "magicBonus": 45
+            }
+          }
+        }
+      },
+      {
+        "firstName": "Дмитрий",
+        "lastName": "Королев",
+        "email": "korolev.d@gmail.com",
+        "gameNickname": "TankMaster",
+        "character": {
+          "name": "Твердыня",
+          "level": 79,
+          "coins": 18900,
+          "equipment": {
+            "helmet": {
+              "name": "Шлем Титана",
+              "defense": 50,
+              "rarity": "epic"
+            },
+            "armor": {
+              "name": "Броня Горы",
+              "defense": 90,
+              "rarity": "legendary"
+            },
+            "weapon": {
+              "name": "Щит Крепости",
+              "damage": 45,
+              "type": "shield"
+            },
+            "necklace": {
+              "name": "Оберег Стойкости",
+              "magicBonus": 20
+            }
+          }
+        }
+      },
+      {
+        "firstName": "Анна",
+        "lastName": "Лебедева",
+        "email": "lebedeva.a@yandex.ru",
+        "gameNickname": "NatureDruid",
+        "character": {
+          "name": "Листва",
+          "level": 73,
+          "coins": 14200,
+          "equipment": {
+            "helmet": {
+              "name": "Венок Природы",
+              "defense": 35,
+              "rarity": "rare"
+            },
+            "armor": {
+              "name": "Кора Древня",
+              "defense": 60,
+              "rarity": "epic"
+            },
+            "weapon": {
+              "name": "Посох Друида",
+              "damage": 85,
+              "type": "staff"
+            },
+            "necklace": {
+              "name": "Семя Жизни",
+              "magicBonus": 30
+            }
+          }
+        }
+      },
+      {
+        "firstName": "Сергей",
+        "lastName": "Игнатьев",
+        "email": "ignatiev.s@mail.ru",
+        "gameNickname": "ArcherPro",
+        "character": {
+          "name": "Соколиный Глаз",
+          "level": 77,
+          "coins": 16800,
+          "equipment": {
+            "helmet": {
+              "name": "Капюшон Следопыта",
+              "defense": 30,
+              "rarity": "rare"
+            },
+            "armor": {
+              "name": "Кираса Охотника",
+              "defense": 50,
+              "rarity": "epic"
+            },
+            "weapon": {
+              "name": "Лук Бури",
+              "damage": 110,
+              "type": "bow"
+            },
+            "necklace": {
+              "name": "Око Меткости",
+              "magicBonus": 25
+            }
+          }
+        }
+      },
+      {
+        "firstName": "Ольга",
+        "lastName": "Новикова",
+        "email": "novikova.o@gmail.com",
+        "gameNickname": "ElementalWizard",
+        "character": {
+          "name": "Стихия",
+          "level": 80,
+          "coins": 21000,
+          "equipment": {
+            "helmet": {
+              "name": "Диадема Элементов",
+              "defense": 40,
+              "rarity": "epic"
+            },
+            "armor": {
+              "name": "Одеяние Стихий",
+              "defense": 65,
+              "rarity": "legendary"
+            },
+            "weapon": {
+              "name": "Жезл Хаоса",
+              "damage": 130,
+              "type": "staff"
+            },
+            "necklace": {
+              "name": "Камень Стихий",
+              "magicBonus": 50
+            }
+          }
+        }
+      },
+      {
+        "firstName": "Павел",
+        "lastName": "Смирнов",
+        "email": "smirnov.p@yandex.ru",
+        "gameNickname": "BattleMaster",
+        "character": {
+          "name": "Воитель",
+          "level": 76,
+          "coins": 17500,
+          "equipment": {
+            "helmet": {
+              "name": "Шлем Полководца",
+              "defense": 42,
+              "rarity": "epic"
+            },
+            "armor": {
+              "name": "Доспех Военачальника",
+              "defense": 75,
+              "rarity": "epic"
+            },
+            "weapon": {
+              "name": "Меч Победы",
+              "damage": 115,
+              "type": "sword"
+            },
+            "necklace": {
+              "name": "Знак Командира",
+              "magicBonus": 30
+            }
+          }
+        }
+      },
+      {
+        "firstName": "Татьяна",
+        "lastName": "Кузнецова",
+        "email": "kuznetsova.t@mail.ru",
+        "gameNickname": "NecroQueen",
+        "character": {
+          "name": "Темная Жрица",
+          "level": 74,
+          "coins": 13800,
+          "equipment": {
+            "helmet": {
+              "name": "Корона Смерти",
+              "defense": 36,
+              "rarity": "epic"
+            },
+            "armor": {
+              "name": "Мантия Теней",
+              "defense": 55,
+              "rarity": "rare"
+            },
+            "weapon": {
+              "name": "Коса Жнеца",
+              "damage": 95,
+              "type": "scythe"
+            },
+            "necklace": {
+              "name": "Амулет Душ",
+              "magicBonus": 40
+            }
+          }
+        }
+      },
+      {
+        "firstName": "Артём",
+        "lastName": "Васильев",
+        "email": "vasiliev.a@gmail.com",
+        "gameNickname": "PaladinLight",
+        "character": {
+          "name": "Светозар",
+          "level": 78,
+          "coins": 19200,
+          "equipment": {
+            "helmet": {
+              "name": "Шлем Правосудия",
+              "defense": 45,
+              "rarity": "epic"
+            },
+            "armor": {
+              "name": "Доспех Света",
+              "defense": 85,
+              "rarity": "legendary"
+            },
+            "weapon": {
+              "name": "Молот Рассвета",
+              "damage": 105,
+              "type": "hammer"
+            },
+            "necklace": {
+              "name": "Святой Символ",
+              "magicBonus": 35
+            }
+          }
+        }
+      },
+      {
+        "firstName": "Наталья",
+        "lastName": "Попова",
+        "email": "popova.n@yandex.ru",
+        "gameNickname": "BeastMaster",
+        "character": {
+          "name": "Хозяйка Зверей",
+          "level": 72,
+          "coins": 11500,
+          "equipment": {
+            "helmet": {
+              "name": "Маска Зверя",
+              "defense": 33,
+              "rarity": "rare"
+            },
+            "armor": {
+              "name": "Шкура Медведя",
+              "defense": 58,
+              "rarity": "epic"
+            },
+            "weapon": {
+              "name": "Копье Охоты",
+              "damage": 90,
+              "type": "spear"
+            },
+            "necklace": {
+              "name": "Клык Вожака",
+              "magicBonus": 28
+            }
+          }
+        }
+      },
+      {
+        "firstName": "Михаил",
+        "lastName": "Козлов",
+        "email": "kozlov.m@mail.ru",
+        "gameNickname": "FireMage",
+        "character": {
+          "name": "Пламень",
+          "level": 81,
+          "coins": 22100,
+          "equipment": {
+            "helmet": {
+              "name": "Корона Пламени",
+              "defense": 41,
+              "rarity": "epic"
+            },
+            "armor": {
+              "name": "Одеяние Огня",
+              "defense": 70,
+              "rarity": "legendary"
+            },
+            "weapon": {
+              "name": "Посох Инферно",
+              "damage": 125,
+              "type": "staff"
+            },
+            "necklace": {
+              "name": "Сердце Пламени",
+              "magicBonus": 45
+            }
+          }
+        }
+      },
+      {
+        "firstName": "Елена",
+        "lastName": "Федорова",
+        "email": "fedorova.e@gmail.com",
+        "gameNickname": "RogueNinja",
+        "character": {
+          "name": "Тень",
+          "level": 70,
+          "coins": 10200,
+          "equipment": {
+            "helmet": {
+              "name": "Маска Ночи",
+              "defense": 29,
+              "rarity": "uncommon"
+            },
+            "armor": {
+              "name": "Одежда Тени",
+              "defense": 48,
+              "rarity": "rare"
+            },
+            "weapon": {
+              "name": "Клинки Тьмы",
+              "damage": 80,
+              "type": "daggers"
+            },
+            "necklace": {
+              "name": "Камень Невидимости",
+              "magicBonus": 20
+            }
+          }
+        }
+      },
+      {
+        "firstName": "Константин",
+        "lastName": "Белов",
+        "email": "belov.k@yandex.ru",
+        "gameNickname": "WarriorKing",
+        "character": {
+          "name": "Властелин Битв",
+          "level": 83,
+          "coins": 24500,
+          "equipment": {
+            "helmet": {
+              "name": "Корона Завоевателя",
+              "defense": 48,
+              "rarity": "legendary"
+            },
+            "armor": {
+              "name": "Доспех Императора",
+              "defense": 95,
+              "rarity": "legendary"
+            },
+            "weapon": {
+              "name": "Меч Королей",
+              "damage": 135,
+              "type": "greatsword"
+            },
+            "necklace": {
+              "name": "Регалия Власти",
+              "magicBonus": 40
+            }
+          }
+        }
+      }
+    ]
+}
